@@ -10,7 +10,7 @@ function Header()
 		          <Navbar.Brand href="/">Day Plan</Navbar.Brand>
 		          <Nav className="me-auto navbar_wrapper">
 		            <Link to="/register">Register</Link>
-		            <Link to="/"className="pl-2">Login</Link>
+		            <Link to="/login"className="pl-2">Login</Link>
 		          </Nav>
 		        </Container>
 		    </Navbar>
